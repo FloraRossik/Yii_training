@@ -1,0 +1,9 @@
+.delete-link {
+    color: rgb(5, 5, 5);
+    float: right;
+}
+
+.delete-link i {
+    margin-right: -11px;
+    margin-top: 50px;
+}

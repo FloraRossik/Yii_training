@@ -1,0 +1,28 @@
+.weather-index {
+    background-color: rgb(165, 210, 240);
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 5px;
+    width: 4%;
+    float: right;
+}
+
+.btn-add-news {
+    background-color: #808080;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.weather-item {
+    background-color: #82cff3;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    width: 40%;
+}
+
+.weather-item p {
+    margin-bottom: 20px;
+}
